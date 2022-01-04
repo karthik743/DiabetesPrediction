@@ -3,7 +3,7 @@
 
 -Importing the house price data and do some EDA on it
 
--Data Visualization on the house price data
+-Data Visualization on the Diabetes data
 
 -Feature Selection & Data Split
 
